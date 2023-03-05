@@ -91,6 +91,7 @@
   /* ----hero---- */
 
   .main-section {
+    max-width: 768px;
     background-image: var(--gradient), url(../images/people-office-tablet.jpg);
   }
 

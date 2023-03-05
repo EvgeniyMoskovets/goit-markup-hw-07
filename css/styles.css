@@ -265,6 +265,7 @@ ul {
 
 .main-section {
   width: 100%;
+  max-width: 428px;
   padding-top: 112px;
   padding-bottom: 112px;
   text-align: center;
@@ -371,7 +372,6 @@ ul {
   line-height: 1.1;
   text-align: center;
 }
-
 
 .team-list {
   width: 100%;
